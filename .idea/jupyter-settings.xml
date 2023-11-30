@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JupyterPersistentConnectionParameters">
+    <option name="knownRemoteServers">
+      <list>
+        <JupyterConnectionParameters>
+          <option name="authType" value="notebook" />
+          <option name="token" value="c5c6224f1bfb4269c2b6fcc6f7a3db05a5661270644cfb7c" />
+          <option name="urlString" value="http://localhost:8888" />
+          <authParams2>
+            <map>
+              <entry key="token" value="c5c6224f1bfb4269c2b6fcc6f7a3db05a5661270644cfb7c" />
+            </map>
+          </authParams2>
+        </JupyterConnectionParameters>
+      </list>
+    </option>
+    <option name="moduleParameters">
+      <map>
+        <entry key="$USER_HOME$/OneDrive/Dokumenty/PycharmProjets/ZUI/.idea/ZUI.iml">
+          <value>
+            <JupyterConnectionParameters>
+              <option name="authType" value="notebook" />
+              <option name="token" value="c5c6224f1bfb4269c2b6fcc6f7a3db05a5661270644cfb7c" />
+              <option name="urlString" value="http://localhost:8888" />
+              <authParams2>
+                <map>
+                  <entry key="token" value="c5c6224f1bfb4269c2b6fcc6f7a3db05a5661270644cfb7c" />
+                </map>
+              </authParams2>
+            </JupyterConnectionParameters>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/OneDrive/Dokumenty/PycharmProjets/lab01/.idea/lab01.iml">
+          <value>
+            <JupyterConnectionParameters>
+              <option name="authType" value="notebook" />
+              <option name="token" value="48d6eadcad26f0a61f47e07c1aec482d85fe33b88f4dfc6d" />
+              <option name="urlString" value="http://localhost:8888" />
+              <authParams2>
+                <map>
+                  <entry key="token" value="48d6eadcad26f0a61f47e07c1aec482d85fe33b88f4dfc6d" />
+                </map>
+              </authParams2>
+            </JupyterConnectionParameters>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
