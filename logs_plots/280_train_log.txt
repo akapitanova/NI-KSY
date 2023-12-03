@@ -1,0 +1,20 @@
+total: 240, correct: 163
+Epoch 1/10, Train Loss: 3127.6722, Test Accuracy: 67.92%
+total: 240, correct: 180
+Epoch 2/10, Train Loss: 237.8733, Test Accuracy: 75.00%
+total: 240, correct: 187
+Epoch 3/10, Train Loss: 114.0518, Test Accuracy: 77.92%
+total: 240, correct: 190
+Epoch 4/10, Train Loss: 13.5855, Test Accuracy: 79.17%
+total: 240, correct: 188
+Epoch 5/10, Train Loss: 1.8169, Test Accuracy: 78.33%
+total: 240, correct: 186
+Epoch 6/10, Train Loss: 1.2921, Test Accuracy: 77.50%
+total: 240, correct: 185
+Epoch 7/10, Train Loss: 1.0329, Test Accuracy: 77.08%
+total: 240, correct: 195
+Epoch 8/10, Train Loss: 0.9726, Test Accuracy: 81.25%
+total: 240, correct: 189
+Epoch 9/10, Train Loss: 0.7544, Test Accuracy: 78.75%
+total: 240, correct: 191
+Epoch 10/10, Train Loss: 0.5607, Test Accuracy: 79.58%
