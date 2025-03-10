@@ -1,5 +1,7 @@
 # KSY_semestralka
 
+📄 **For detailed analysis and results, see the presentation:** [KSY.pdf](KSY.pdf) 
+
 ## Natrénujte si neuronovou síť, která rozpozná vaše vlastní písmo od cizího
 
 Grafognózie (písmoznalectví) je vědní obor zabývající se identifikací pisatele na základě písma. Natrénujte neuronovou síť (nebo dotrénujte již předtrénovanou), která dokáže rozlišit vaše vlastní písmo od cizího (tedy binární klasifikátor: vaše/cizí). Přesnost sítě ověřte na testovacích datech (která neviděla během trénovaní).  Kolik trénovacích dat nejméně vaše síť potřebuje? Jak se podle vás liší mechanismus, který síť používá, od metod obecně používaných v písmoznalectví?
